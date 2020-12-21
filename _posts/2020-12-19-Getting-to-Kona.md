@@ -3,7 +3,7 @@ layout: post
 title: Get to Kona, Hawaii with a quarantine exemption
 ---
 
-NOTE: My experience is no indicator  of or predictor of success for of anyone else’s
+NOTE: My experience is no indicator or predictor of success for of anyone else’s
 
 Right now, there is a [mandatory 14-day quarantine for any travellers arriving in Hawaii](https://www.gohawaii.com/travel-requirements). Big Island is one of the islands offering an exemption if you provide proof of an approved negative COVID test result. [This link](https://www.gohawaii.com/travel-requirements) provides full details, but what I outline below may also help you...
 - If you are having trouble finding a location or available appointment with one of the approved COVID test providers
