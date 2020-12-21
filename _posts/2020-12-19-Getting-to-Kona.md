@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting to Kona, Hawaii with a quarantine exemption
+title: Get to Kona, Hawaii with a quarantine exemption
 ---
 
 :warning: My experience is no indicator  of or predictor of success for of anyone else’s :smiley:
