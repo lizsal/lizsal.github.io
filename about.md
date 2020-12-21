@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Partner and Parent first, sometimes, then Director of Engineering. Figuring out that work-life balance thing - aiming for the trifecta of work-fun-fitness.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lizabny@yahoo.com](mailto:lizabny@yahoo.com)
