@@ -46,7 +46,7 @@ Another change in 2018 was my joining GitHub. I'm a Director of Engineering with
 * I love when people want to pair, brainstorm, and try new things out with me
 * It's great when people clarify how much they care about something, so that I can properly give attention to a big deal or not worry about a smaller one as much
 * Raising concerns early
-* What do you wish colleagues didn’t do?
+#### What do you wish colleagues didn’t do?
 * Put too much weight into roles/titles and set unrealistic expectations because of them
 * Gossip and shut others down
 * Not trust or invest in others
