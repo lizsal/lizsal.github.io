@@ -38,7 +38,7 @@ Another change in 2018 was my joining GitHub. I'm a Director of Engineering with
 * Even if I try to cheat or bluff, I'm a dead giveaway. No poker face here.
 * I don't like chocolate or coffee, but I love peanut butter and caffeine - Mio drops ftw
 * I like proper spelling and grammar - not that I judge when it isn't there, but I love when people make it better and get it right
-* What are some things that people might misunderstand about you that you should clarify?
+#### What are some things that people might misunderstand about you that you should clarify?
 * I do care. Probably too much.
 * I'm passionate, but not heartless.
 * I don't care about the how as much as I do the what, but I'll step in with the how when we aren't getting to the what. It doesn't mean I'm stuck to those ways.
