@@ -39,9 +39,9 @@ Another change in 2018 was my joining GitHub. I'm a Director of Engineering with
 * I don't like chocolate or coffee, but I love peanut butter and caffeine - Mio drops ftw
 * I like proper spelling and grammar - not that I judge when it isn't there, but I love when people make it better and get it right
 #### What are some things that people might misunderstand about you that you should clarify?
-* I do care. Probably too much.
-* I'm passionate, but not heartless.
-* I don't care about the how as much as I do the what, but I'll step in with the how when we aren't getting to the what. It doesn't mean I'm stuck to those ways.
+* I've heard that I'm intimidating - still trying to unpack that and figure out how to show up as my true, relationship-valuing self better
+* I also have heard that I don't care as much as I should about this or that - this is plausible, depending on the thing. I'm extremely selective with what I devote my attention and time to.
+* I don't care about the `how` as much as I do the `what`, and I tend to step in to help the `how` when we aren't getting to the `what`. It doesn't mean I'm stuck to the `how` I'm leaning in on though, as long as we're getting to the `what`.
 #### What qualities do you particularly value in your colleagues?
 * I love when people want to pair, brainstorm, and try new things out with me
 * It's great when people clarify how much they care about something, so that I can properly give attention to a big deal or not worry about a smaller one as much
