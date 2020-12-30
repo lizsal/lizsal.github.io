@@ -73,7 +73,3 @@ Another change in 2018 was my joining GitHub. I'm a Director of Engineering with
 * As quickly and simply as possible, straight up with no drama and lots of respect.
 * Give me an observable fact without judgement, tell me the impact you think it could have, and ask for clarifications and/or make a request and/or thank me.
 * Pretend that you like me while you're giving it  :smile:
-
-### Contact me
-
-[liz@lizsaling.com](mailto:liz@lizsaling.com)
