@@ -5,7 +5,7 @@ title: Get to Kona, Hawaii with a quarantine exemption
 
 NOTE: My experience is no indicator or predictor of success for anyone else
 
-Right now, there is a [mandatory 14-day quarantine for any travellers arriving in Hawaii](https://www.gohawaii.com/travel-requirements). Big Island is one of the islands offering an exemption if you provide proof of an approved negative COVID test result. [This link](https://www.gohawaii.com/travel-requirements) provides full details, but what I outline below may also help you if...
+At the time of writing (19 Dec 2020), there is a [mandatory quarantine for all travellers arriving in Hawaii](https://www.gohawaii.com/travel-requirements). Big Island is one of the islands offering **an exemption if you provide proof of an approved negative COVID test result prior to departure**. [This link](https://www.gohawaii.com/travel-requirements) provides full details, but what I outline below may also help you if...
 - you are having trouble finding a location or available appointment with one of the approved COVID test providers
 - you are worried about the nose stick type of test, and you are able to generate a lot of saliva (kits are only to be used on people over 5 years old, and this isn't easy for kids to do anyway. I actually had a bit of a hard time with it myself, and I had to think about a lot of delicious food to finish the job)
 - each traveler has a unique email address
@@ -35,6 +35,6 @@ I was flying to Kona on a Saturday, and I started the process on Sunday night. I
 1. **When you get to the gate for your Hawaii-bound flight, check in with the gate attendants** who will scan your QR code, review everyone’s test results, and then provide you with wristbands to clear you through arrival checks. Get on the plane now and have a great flight!
 1. **Arrive in Hawaii!** Show your wristband to the arrival crew and you are cleared to go. I've heard that there is random testing happening at the airport, but I did not experience this or witness it.
 
-One final thought - you were tested three days ago. Keep in mind that you still may have been exposed since then, so please act responsibly! Wear your mask, wash your hands, and avoid going out, especially where you'll be in close proximity with others. Consider being tested again after you've arrived. A surge on COVID cases could be devastating for a remote island with limited healthcare options. 
+One final thought - you were tested three days ago. ***Keep in mind that you still may have been exposed since then, so please act responsibly! Wear your mask, wash your hands, and avoid going out, especially where you'll be in close proximity with others. Consider being tested again after you've arrived. A surge on COVID cases could be devastating for a remote island with limited healthcare options.***. 
 	
 Aloha!  -Liz
