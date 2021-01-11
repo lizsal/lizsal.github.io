@@ -5,7 +5,8 @@ title: Get to Kona, Hawaii with a quarantine exemption
 
 NOTE: My experience is no indicator or predictor of success for anyone else
 
-At the time of writing (19 Dec 2020), there is a [mandatory quarantine for all travellers arriving in Hawaii](https://www.gohawaii.com/travel-requirements). Big Island is one of the islands offering **an exemption if you provide proof of an approved negative COVID test result prior to departure**. [This link](https://www.gohawaii.com/travel-requirements) provides full details, but what I outline below may also help you if...
+At the time of writing (19 Dec 2020), there is a [mandatory quarantine for all travellers arriving in Hawaii](https://www.gohawaii.com/travel-requirements). Big Island is one of the islands offering **an exemption if you provide proof of an approved negative COVID test result prior to departure**. [This Hawaii Tourism board post](https://www.hawaiitourismauthority.org/covid-19-updates/) provides full details, but what I outline below may also help you if...
+- it is still current (refer to the links above for the latest updates on current travel restrictions to Hawaii, and Big Island in particular)
 - you are having trouble finding a location or available appointment with one of the approved COVID test providers
 - you are worried about the nose stick type of test, and you are able to generate a lot of saliva (kits are only to be used on people over 5 years old, and this isn't easy for kids to do anyway. I actually had a bit of a hard time with it myself, and I had to think about a lot of delicious food to finish the job)
 - each traveler has a unique email address
