@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get to Kona, Hawaii with a quarantine exemption
+title: Procrastinating
 ---
 
 Am I the only one who makes to do lists that are _really_ lists of things I am putting off doing?
