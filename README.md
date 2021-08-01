@@ -8,6 +8,20 @@ Main site configuration is done by editing the _config.yml file. You can easily 
 
 Cope the metadata table from a [previous post](/_posts) and paste it into a new file in the posts directory. When it's merged, it will automatically post using the title and exerpt given. Additional options are available for the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post file. Make sure the post's filename is in this format: year-month-day-title.md
 
+## Local Development
+
+Prereqs:
+- install [homebrew](https://brew.sh/) by running `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- install [bundler](https://bundler.io/) by running `gem install bundler` (wait ... might not need this)
+- `gem install --user-install bundler jekyll`
+- `echo 'export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"' >> ~/.zshrc`
+
+1. Install Jekyll and plug-ins: `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+2. Clone this repo: `git clone https://github.com/lizsal/lizsal.github.io.git`
+3. Serve the site and watch for markup/sass changes: `cd /Users/lizsaling/lizsal.github.io; jekyll serve`
+4. View your website at http://127.0.0.1:4000/
+5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+
 ### More Info
 
 <details>
