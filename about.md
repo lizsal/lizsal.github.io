@@ -15,7 +15,7 @@ Another change in 2018 was my joining GitHub. I'm a Director of Engineering with
 
 ### Values
 * Relationships
-* Teaching and mentoring
+* Teaching and coaching
 * Efficiency
 * Effectiveness
 * Collaboration
