@@ -78,5 +78,5 @@ Other times, you'll need a therapist or doctor who is trained to work with us wh
 
 Certainly let me know if I can help!
 
-*Q: Do I need to explain what I'm going through to people? When they sincerely ask how are you doing, should I tell them? If I hide it from them, am I denying it?*
+*Q: Do I need to explain what I'm going through to people? When they sincerely ask how are you doing, should I tell them? If I hide it from them, am I denying it?*  
 A: Totally up to you. Depends on the relationship and the situation. "Doing well, thank you for asking" is not a lie. You can take an opportunity to set expectations if that seems helpful, with or without explanation.
