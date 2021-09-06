@@ -60,7 +60,7 @@ It's ok to take one step forward and two steps back here, just keep going.*
 
 #### Move into and through the pain cleanly.
 1. It is time to let the thoughts that are causing this pain go. Acknowledge that you're holding onto them, which will allow you to release them more easily. 
-1. Just like you can create pain with your mind, you can create relief with your mind. You can learn from this if you go in without resistance. Take some time and write down your answers to these questions.
+1. Just like you can create pain with your mind, you can create relief with your mind. You can learn from this if you go in without resistance. Take some time and write down your answers to these questions:
     1. How can I use this pain?
     1. How is this perfect for me?
     1. How can I accept this with grace?
