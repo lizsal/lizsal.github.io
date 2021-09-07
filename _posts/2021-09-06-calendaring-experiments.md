@@ -20,7 +20,8 @@ Here's what I'm trying:
 - NEW: I tracked how I spend my time by category for a week or two on a fresh calendar. Based on that, I created a daily target schedule. Here's the breakdown I'm going to aim for each day to avoid overcommitting myself and squeezing into my valuable non-work time:  
     4 hours of sync meetings, 2 hours of working without distractions, 2 hours of async work split up around meeting blocks, 1 hour break. 🤞
 	
-### Weekly Steps [3]
+### Weekly Steps
+[3]  
 - Considering all the inputs (My Map and related strategies, existing calendars, To Do lists), only review My Map, and hide the rest for now. I mean it. No peaking.
 - With those priorities in mind, think deep for a couple minutes. "What do I want completed by the end of this week?" Note that these should be specific actions and real results--observable trials and/or measurable value out of something I created that didn't exist before.
     - Write it down. 
@@ -39,20 +40,22 @@ Here's what I'm trying:
 Well. This has seriously been a series of experiments and activity consuming quite a bit of time this entire year, and I'm not done yet. So there's that, but I am not about to let it deter me. I've heard people can do it in an hour once they get into the habit of it and there's a lot of rinse and repeat. I'm not there yet. It still takes me a couple hours, so my next tweak is to do an hour on Sunday night (focused on me) and an hour on Monday morning (focused on work).
 
 #### What I've Learned So Far
-- I don't say yes to things right away as much as I used to, and respond with when I think I will get to it. What I see is that people come to expect this from me and will ask me less or wait. This is a good thing.
-- I still schedule more things to do than humanly possible, and don't get some of it done.
+- I don't say yes to things right away as much as I used to, and respond with when I think I can get to it, and I schedule it. What I see is that people come to expect this from me, and will either ask things of me less often or wait. This is a good thing.
+- I still schedule more things to do than humanly possible, and don't get some of it done. I'm a work in progress.
 - My self-confidence increases as I come to realize I'll accomplish whatever I set out to do. I'm getting better about being in charge of my time and setting expectations.
-- While on the surface it can be hard, in my reality it can be easy if I stick to key decisions I've made about my priorities, and rinse and repeat more.
-- It really takes me a lot longer to do things than the time I schedule for them, usually because I don't account for context switching, interruptions, and fatigue.
+- While on the surface I still think calendaring is hard, in my reality it can be easy if I stick to key decisions I've made about my priorities, and rinse and repeat more. That said, if you want to watch a grown woman bite her nails for the first time in a dozen years, watch me try to dig in and get serious with my calendar. 😅
+- Many times it takes me longer to do things than the time I schedule for them, usually because I don't account for context switching, interruptions, and fatigue. And other times because I'm trying to make it better than it needs to be.
 - I am a lot more reactionary than I realized, and usually dig in to address something that just came up more than sticking to plan and scheduling the new thing for later. It's something I want to unpack to see if I should schedule time for this specifically, or if I want to dig in about how I value what I have already scheduled and if I'm avoiding it for reasons.
 
-I'm absolutely convinced that this is more effective for me, so I'm keeping at it, and it is getting a little easier each time.
+I'm absolutely convinced that being intentional with my time is more effective for me, so I'm keeping at it, coming up with a plan and sticking to it. It is taking less effort each time.
 
 In fact, I'm going to stop writing about this (which I didn't schedule) and sit and do another attempt right now.
+
+(Update after that attempt: having the previous attempts behind me, having the steps written down here and following them without thinking about how overwhelming they are was a lot easier! I have a full plan for this week, and it is glorious! I'll report back on how the week goes and subsequent trials.)
 
 #### Distracting Extras
 [1] Thank you, [Kate Byers and Corporate Women Unleashed](https://kathleenbyars.com/program/) and Jadine Cleary for helping me come up with My Map! Sundance forever! (Inside joke I'll explain to anyone interested, and related -- if anyone knows a good graphic designer looking for small kine freelance work, hit me up)  
 [2] This is really easy to do with Google calendars, acknowledging their [data privacy policies](https://support.google.com/calendar/answer/10366125?hl=en).  
-[3] Inspired by [Monday Hour One](https://mondayhourone.com/). That program is **good**, but I haven't invested the time to fully digest and implement it yet.  
+[3] Inspired by [Monday Hour One](https://mondayhourone.com/). That program is **good**, but I haven't yet invested all the time to fully digest and implement it.  
 [4] I use [mindmeister](https://www.mindmeister.com/) on my laptop or tablet for this right now, though I've tried text files, Trello, GitHub personal project boards, Google tasks, and probably a dozen more I'm forgetting. The only drawback with mindmeister is it's a little challenging to use on mobile -- not prohibitively so for general reference and tweaking, but I'm definitely not doing this process with it on my phone.  
 [5] Fun fact: I play [Wordscapes](https://apps.apple.com/us/app/wordscapes/id1207472156), and noticed how often I can solve a word that I couldn't previously figure out after I step away from the level for about an hour and come back fresh! I never believed in the power of a break before that discovery, despite all the evidence I've heard to support it. I'm a stubborn learner sometimes. So unusual for all of us I'm sure.  
