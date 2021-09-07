@@ -50,7 +50,7 @@ I'm absolutely convinced that this is more effective for me, so I'm keeping at i
 In fact, I'm going to stop writing about this (which I didn't schedule) and sit and do another attempt right now.
 
 #### Distracting Extras
-[1] Thank you, [Kate Byers and Corporate Women Unleashed](https://kathleenbyars.com/program/) for helping me come up with My Map! Highly recommend. Sundance forever! (Inside joke I'll explain to anyone interested, and related -- if anyone knows a good graphic designer looking for small kine freelance work, hit me up)  
+[1] Thank you, [Kate Byers and Corporate Women Unleashed](https://kathleenbyars.com/program/) and Jadine Cleary for helping me come up with My Map! Sundance forever! (Inside joke I'll explain to anyone interested, and related -- if anyone knows a good graphic designer looking for small kine freelance work, hit me up)  
 [2] This is really easy to do with Google calendars, acknowledging their [data privacy policies](https://support.google.com/calendar/answer/10366125?hl=en).  
 [3] Inspired by [Monday Hour One](https://mondayhourone.com/). That program is **good**, but I haven't invested the time to fully digest and implement it yet.  
 [4] I use [mindmeister](https://www.mindmeister.com/) on my laptop or tablet for this right now, though I've tried text files, Trello, GitHub personal project boards, Google tasks, and probably a dozen more I'm forgetting. The only drawback with mindmeister is it's a little challenging to use on mobile -- not prohibitively so for general reference and tweaking, but I'm definitely not doing this process with it on my phone.  
