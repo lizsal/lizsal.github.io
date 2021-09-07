@@ -6,7 +6,7 @@ Calendars suck. Oh my goodness it is much easier to let the meetings come in as 
 
 But that doesn't get me what I want to achieve anytime soon, so I have been doing experiments to get more intentional with how I spend my time. It's hard, but worth it.
 
-While I do have separate calendars, I no longer treat my life as two separate entities competing for the same space, and specifically I'm talking about the space *around* the standard work day times.
+While I do have separate calendars for work and home, I no longer treat my life as two separate entities competing for the same space. I'm talking about the space *around* the standard work day times specifically, where work would often bleed into personal time.
 
 Here's what I'm trying:  
 - Be intentional with how I spend all of my time
