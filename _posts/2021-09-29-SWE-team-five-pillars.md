@@ -4,7 +4,7 @@ title: Five Pillars of Well-Rounded Software Engineering Teams
 ---
 Most places I've worked offer models for periodically reviewing employee performance and having career development conversations, but I haven't seen great ones for **teams** and have ended up creating my own over time. 
 
-I realize there are _several_ different team-shaping models that cover a range of different intentions from rapid growth to long-range operability, and massive results to sustainable output. I find parts of them fascinating and continue to find points I want to factor into my own mental picture of how things could be. I'm sharing here what I personally subscribe to and continue to iterate on.
+I realize there are several different team-shaping models that cover a range of different intentions from rapid growth to long-range operability, and massive results to sustainable output. I find parts of them fascinating and continue to find points I want to factor into my own mental picture of how things could be. I'm sharing here what I personally subscribe to and continue to iterate on.
 
 ![image](https://user-images.githubusercontent.com/43018285/135375277-2dbc2460-1c7c-452d-9f77-36cdfb927b6d.png)
 
@@ -23,6 +23,6 @@ Highlighting some of the behaviors I look for from my _teams_:
 + (Plan) Scope and dates cannot be set at the same time. Pick which one you'll set, and adjust the other. Recognize that it is difficult to adjust the people involved, so that should be an orthogonal conversation that affects scope and timeline.
 + (Communicate) Operate in a global, remote-first manner: keep work related conversations in public, easily discoverable and durable channels, capture summaries, balance sync time (including Slack sync messaging), account for all timezones in planning meetings and discussions.
 + (Grow) Set the bar high for excellence. All the catchphrases here: growth mindset, continuous improvement, believing that anything is possible. It is fine to vent provided that you get it out, process it, and move forward. Try things out more than worrying about what will happen when you do - worry is a waste of imagination.
-+ (Grow) Have a life! Have a life! And support others in their efforts to do things outside of work and take care of themselves and their families.
++ (Grow) Have a life! And support others in their efforts to do things outside of work and take care of themselves and their families.
 
 *And above all else:* ***BE KIND.*** Build relationships. Keep conversations going, even when others may stifle them. Especially then.
