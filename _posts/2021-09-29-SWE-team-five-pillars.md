@@ -1,5 +1,7 @@
-## Five Pillars of Well-Rounded Software Engineering Teams
-
+---
+layout: post
+title: Five Pillars of Well-Rounded Software Engineering Teams
+---
 Most places I've worked offer models for periodically reviewing employee performance and having career development conversations, but I haven't seen great ones for **teams** and have ended up creating my own over time. 
 
 I realize there are _several_ different team-shaping models that cover a range of different intentions from rapid growth to long-range operability, and massive results to sustainable output. I find parts of them fascinating and continue to find points I want to factor into my own mental picture of how things could be. I'm sharing here what I personally subscribe to and continue to iterate on.
