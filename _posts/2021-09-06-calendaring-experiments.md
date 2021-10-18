@@ -53,7 +53,21 @@ In fact, I'm going to stop writing about this (which I didn't schedule) and sit 
 
 (Update after that attempt: having the previous attempts behind me, having the steps written down here and following them without thinking about how overwhelming they are was a lot easier! I have a full plan for this week, and it is glorious! I'll report back on how the week goes and subsequent trials.)
 
-#### Distracting Extras
+#### More Updates
+
+I'm using this exact post to do my weekly planning, and have been capturing learnings as I go. I'll eventually work these back into the plan or create a more streamlined post from it.
+
+(17 Oct 2021) It's been about six weeks now of doing this routinely. Here's what I've learned:
+- The hardest part was getting the recurring things set up so that I never have to think about doing them again. Now that they're set up, it's so much easier to get them done and move them around if I need to.
+- Put in more "down time" for task switching and unscheduled activity.
+- Plan additional time to respond to small action items that come out of big meetings, so block time for it whenever a big meeting comes up. Bit action items go into my to do list for further breakdown and calendaring.
+- I need a lot more time for disconnected work that isn't related to big goals.
+- It's easier for me to keep a running list that I can create work blocks from, rather than create it from scratch each week.
+- I absolutely need to do more than one week at a time, so I do three weeks. Then as things come in, I can purposefully shuffle or postpone them. I also create blocks of time that are labeled as "schedule here" to make it easier for folks to schedule time with me.
+- I'm still struggling wrapping things up at the end of the day, and feel this is when I frequently get into a groove. I will try to position my work blocks at the end of the day to match this energy, and make it easier to wrap the day up according to my desired schedule.
+- It's easier for me to have more meetings on some days and less on others, than try to come up with an ideal schedule for each day that is more or less identical. So I'm keeping the same target hours per week, but loosening up the per day targets by category.
+
+#### The Distracting Extras 😁
 [1] Thank you, [Kate Byers and Corporate Women Unleashed](https://kathleenbyars.com/program/) and Jadine Cleary for helping me come up with My Map! Sundance forever! (Inside joke I'll explain to anyone interested, and related -- if anyone knows a good graphic designer looking for small kine freelance work, hit me up)  
 [2] This is really easy to do with Google calendars, acknowledging their [data privacy policies](https://support.google.com/calendar/answer/10366125?hl=en).  
 [3] Inspired by [Monday Hour One](https://mondayhourone.com/) and Lauren Cash. This program is **good**, but I haven't yet invested all the time to fully digest and implement it.  
