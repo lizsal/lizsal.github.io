@@ -24,6 +24,16 @@ A recap of my objectives here (see /calendaring-experiments](LINK) for more deta
 ### Weekly Steps
 [3]  
 
+1. Go through your maps - do a little more breakdown
+2. Go through your routines - tweak them as needed
+3. Block out your available time into chunks
+4. Pull together a list of your map breakdowns and todo list, in priority order
+5. Break it into chunks, and draw a hard line under the number of available work blocks you have to fit those chunks into
+6. As the week goes on, adjust the list as needed, keeping an eye on that hard line. Don't fit more in, something has to move out
+
+
+
+
 1. Go through your calendar's existing events, and block out your available time. If you don't have available time, go a few weeks out and start blocking some. You may not be able to do much else this week, but as you create space, you'll be able to start filling it with what you need to get done.
 2. Review and update your map's goals, and their breakdowns. 
     1. If you need more time for this, note that as part of the breakdown.
